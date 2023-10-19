@@ -17,8 +17,8 @@ If you'd like to collaborate, discuss projects, or simply have inquiries, feel f
 
 👥 Follow Us:
 Don't forget to follow us on our social media platforms for the latest updates on our projects, articles, and initiatives!
-- Twitter: [@SediksiMedia](https://twitter.com/SediksiMedia)
-- LinkedIn: [Sediksi.com](https://www.linkedin.com/company/sediksi-com)
-- Instagram: [@sediksi.official](https://www.instagram.com/sediksi.official)
+- Twitter: [@sediksi](https://twitter.com/sediksi)
+- LinkedIn: [Sediksi.com](https://www.linkedin.com/company/sediksi)
+- Instagram: [@sediksi](https://www.instagram.com/sediksi)
 
 Thank you for visiting our GitHub account. We're excited to collaborate and share knowledge with the GitHub community!
